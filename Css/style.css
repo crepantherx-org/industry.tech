@@ -1,0 +1,17 @@
+.center{
+    text-align: center;
+}
+.inline{
+    display: inline;
+}
+.margin{
+    margin: 0%;
+}
+.width{
+    float: center;
+    width: 100%;
+}
+.bg{
+    background-image: url("paper.gif");
+    background-color: #cccccc;
+}
