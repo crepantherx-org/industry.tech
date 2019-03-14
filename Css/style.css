@@ -11,7 +11,19 @@
     float: center;
     width: 100%;
 }
-.bg{
-    background-image: url("paper.gif");
-    background-color: #cccccc;
-}
+body, html {
+    height: 100%;
+  }
+  
+  .bg { 
+    /* The image used */
+    background-image: url("../Pic/best.jpg");
+  
+    /* Full height */
+    height: 100%; 
+  
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
